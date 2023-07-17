@@ -68,10 +68,6 @@ searchButton.addEventListener("click", () => {
     curSelectedNav = null;
 });
 
-function myFunction(){
-      let element = document.getElementById("");
-      body.style.background = 'black';
-        body.style.transition = '2s';
-}
+
 
 
